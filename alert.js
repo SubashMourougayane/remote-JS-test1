@@ -1,3 +1,3 @@
-a(){
+function a(){
 alert('hi');
 }
